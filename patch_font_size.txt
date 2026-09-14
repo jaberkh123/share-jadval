@@ -1,0 +1,16 @@
+--- app/src/main/java/com/example/ui/Screens.kt
++++ app/src/main/java/com/example/ui/Screens.kt
+@@ -2119,7 +2119,7 @@
+         // Top Right Clue Number
+         if (cellNumber > 0 && !isBlock) {
+-            val numFontSize = if (isMinimapMode) 7.sp else 12.sp
++            val numFontSize = (cellSize.value * 0.28f).coerceAtMost(12f).sp
+             Box(
+                 modifier = Modifier
+@@ -2134,7 +2134,7 @@
+         // User entered character
+         if (!isBlock && userChar != ' ') {
+-            val charFontSize = if (isMinimapMode) 14.sp else 25.sp // Made 2sp larger (from 23sp to 25sp)
++            val charFontSize = (cellSize.value * 0.58f).coerceAtMost(25f).sp
+             Box(
+                 modifier = Modifier.fillMaxSize(),
