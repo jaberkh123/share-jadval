@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/adivery_wrapper"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="3dp"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/adivery_icon"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_marginEnd="6dp"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/adivery_headline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#111111"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:fontFamily="sans" />
+
+        <TextView
+            android:id="@+id/adivery_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:textColor="#555555"
+            android:textSize="12sp"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:fontFamily="sans" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/adivery_call_to_action"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:minWidth="65dp"
+        android:layout_marginStart="6dp"
+        android:paddingHorizontal="10dp"
+        android:textColor="#FFFFFF"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:backgroundTint="#2563EB"
+        android:fontFamily="sans" />
+
+</LinearLayout>
