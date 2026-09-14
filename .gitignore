@@ -20,6 +20,3 @@ debug.keystore
 *.keystore
 *.apk
 *.zip
-app/build/
-*.apk
-*.zip
