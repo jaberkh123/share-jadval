@@ -1,0 +1,8 @@
+{
+  "name": "شهر جدول",
+  "description": "بازی جدول کلمات متقاطع فارسی با طراحی مینیمال و جذاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
