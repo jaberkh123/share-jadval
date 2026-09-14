@@ -1,0 +1,442 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "length": 3,
+   "word_idx": 23104,
+   "word": "غسل",
+   "clue": "شستن تمام بدن برای طهارت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "length": 3,
+   "word_idx": 37675,
+   "word": "کتک",
+   "clue": "ضرب و شتم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "length": 7,
+   "word_idx": 40357,
+   "word": "یکجانبه",
+   "clue": "محدود به یک جانب",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "length": 7,
+   "word_idx": 21679,
+   "word": "ضروریات",
+   "clue": "نیازهای اساسی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 3,
+   "length": 5,
+   "word_idx": 11611,
+   "word": "جواهر",
+   "clue": "سنگ قیمتی و گران‌بها",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 5,
+   "word_idx": 34100,
+   "word": "وبلاگ",
+   "clue": "دفترچه یادداشت آنلاین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 7,
+   "word_idx": 16662,
+   "word": "روحنواز",
+   "clue": "مایه آرامش جان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 7,
+   "word_idx": 18247,
+   "word": "ستیهیدن",
+   "clue": "ستیز کردن و جنگیدن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "افعال"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "length": 3,
+   "word_idx": 38822,
+   "word": "کوه",
+   "clue": "برآمدگی عظیم زمین",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "length": 3,
+   "word_idx": 32897,
+   "word": "هبا",
+   "clue": "بیهوده و تباه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "length": 4,
+   "word_idx": 34210,
+   "word": "ورسک",
+   "clue": "روستایی در سوادکوه با پل راه‌آهن مشهور",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 3,
+   "word_idx": 23339,
+   "word": "غیض",
+   "clue": "خشم شدید و غضب",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 1,
+   "length": 4,
+   "word_idx": 7245,
+   "word": "بوتو",
+   "clue": "نخست‌وزیر سابق پاکستان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 3,
+   "word_idx": 19686,
+   "word": "سکر",
+   "clue": "مستی و سرخوشی",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 2,
+   "length": 4,
+   "word_idx": 25440,
+   "word": "لحیه",
+   "clue": "ریش",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 7,
+   "word_idx": 25429,
+   "word": "لجوجانه",
+   "clue": "از روی لجاجت و خیره‌سری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "length": 7,
+   "word_idx": 2170,
+   "word": "اروگویه",
+   "clue": "کشوری در آمریکای جنوبی به مرکزیت مونته‌ویدئو",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 4,
+   "word_idx": 38560,
+   "word": "کنیا",
+   "clue": "کشوری در شرق آفریقا با پایتخت نایروبی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 5,
+   "length": 3,
+   "word_idx": 1895,
+   "word": "ادب",
+   "clue": "رعایت نزاکت و شایستگی",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "هنر"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 4,
+   "word_idx": 8765,
+   "word": "تباه",
+   "clue": "فاسد و هلاک‌شده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 6,
+   "length": 3,
+   "word_idx": 17370,
+   "word": "زنا",
+   "clue": "آمیزش جنسی غیرشرعی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "length": 4,
+   "word_idx": 38573,
+   "word": "کهتر",
+   "clue": "کوچک‌تر و فروتر",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   "غ",
+   "س",
+   "ل",
+   null,
+   "ک",
+   "ت",
+   "ک"
+  ],
+  [
+   null,
+   "ی",
+   "ک",
+   "ج",
+   "ا",
+   "ن",
+   "ب",
+   "ه"
+  ],
+  [
+   null,
+   "ض",
+   "ر",
+   "و",
+   "ر",
+   "ی",
+   "ا",
+   "ت"
+  ],
+  [
+   null,
+   null,
+   null,
+   "ج",
+   "و",
+   "ا",
+   "ه",
+   "ر"
+  ],
+  [
+   "و",
+   "ب",
+   "ل",
+   "ا",
+   "گ",
+   null,
+   null,
+   null
+  ],
+  [
+   "ر",
+   "و",
+   "ح",
+   "ن",
+   "و",
+   "ا",
+   "ز",
+   null
+  ],
+  [
+   "س",
+   "ت",
+   "ی",
+   "ه",
+   "ی",
+   "د",
+   "ن",
+   null
+  ],
+  [
+   "ک",
+   "و",
+   "ه",
+   null,
+   "ه",
+   "ب",
+   "ا",
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 18,
+  "hard": 1,
+  "high_medium": 1,
+  "easy": 2
+ },
+ "nodes_explored": 100,
+ "solve_time_s": 0.3001589775085449,
+ "seed": 80093
+}

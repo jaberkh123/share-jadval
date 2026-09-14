@@ -1,0 +1,419 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 31947,
+   "word": "نقب",
+   "clue": "راه زیرزمینی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "length": 7,
+   "word_idx": 35314,
+   "word": "پرفایده",
+   "clue": "سودمند و مفید",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "length": 7,
+   "word_idx": 25361,
+   "word": "لایتغیر",
+   "clue": "تغییرناپذیر",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 25767,
+   "word": "لکه",
+   "clue": "اثر آلودگی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "length": 4,
+   "word_idx": 25142,
+   "word": "قیاس",
+   "clue": "سنجش دو چیز با هم",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 4,
+   "word_idx": 22163,
+   "word": "عادل",
+   "clue": "دادگر",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 16505,
+   "word": "رنو",
+   "clue": "نوعی آهوی آفریقایی",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 7,
+   "word_idx": 3786,
+   "word": "اناهیتا",
+   "clue": "ایزدبانوی آب و باروری",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 7,
+   "word_idx": 7857,
+   "word": "بیریایی",
+   "clue": "یکرنگی و صداقت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "length": 3,
+   "word_idx": 40170,
+   "word": "یبس",
+   "clue": "خشک و سفت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "length": 4,
+   "word_idx": 25513,
+   "word": "لعاب",
+   "clue": "لایه براق روی سطح ظروف",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "length": 6,
+   "word_idx": 35710,
+   "word": "پلکانی",
+   "clue": "دارای طبقات متوالی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "length": 7,
+   "word_idx": 15993,
+   "word": "راهداری",
+   "clue": "نگهداری و مراقبت از جاده‌ها",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 31913,
+   "word": "نفی",
+   "clue": "انکار و رد کردن",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "length": 4,
+   "word_idx": 25616,
+   "word": "لهیب",
+   "clue": "آتشی بسیار شعله‌ور",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 4,
+   "word_idx": 24448,
+   "word": "قاتق",
+   "clue": "خورش و نان‌خورش",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 40114,
+   "word": "یاس",
+   "clue": "گلی سفید و بسیار معطر",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "طبیعت"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 7,
+   "word_idx": 8067,
+   "word": "بیغیرتی",
+   "clue": "سستی در دفاع از ناموس و میهن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "length": 6,
+   "word_idx": 15510,
+   "word": "دیانای",
+   "clue": "اسید دئوکسی‌ریبونوکلئیک",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "length": 4,
+   "word_idx": 33021,
+   "word": "هرسو",
+   "clue": "از هر طرف",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   null,
+   null,
+   "ن",
+   "ق",
+   "ب",
+   null,
+   null
+  ],
+  [
+   null,
+   "پ",
+   "ر",
+   "ف",
+   "ا",
+   "ی",
+   "د",
+   "ه"
+  ],
+  [
+   null,
+   "ل",
+   "ا",
+   "ی",
+   "ت",
+   "غ",
+   "ی",
+   "ر"
+  ],
+  [
+   "ل",
+   "ک",
+   "ه",
+   null,
+   "ق",
+   "ی",
+   "ا",
+   "س"
+  ],
+  [
+   "ع",
+   "ا",
+   "د",
+   "ل",
+   null,
+   "ر",
+   "ن",
+   "و"
+  ],
+  [
+   "ا",
+   "ن",
+   "ا",
+   "ه",
+   "ی",
+   "ت",
+   "ا",
+   null
+  ],
+  [
+   "ب",
+   "ی",
+   "ر",
+   "ی",
+   "ا",
+   "ی",
+   "ی",
+   null
+  ],
+  [
+   null,
+   null,
+   "ی",
+   "ب",
+   "س",
+   null,
+   null,
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ]
+ ],
+ "level_counts": {
+  "high_medium": 5,
+  "low_medium": 2,
+  "medium": 11,
+  "hard": 1,
+  "easy": 1
+ },
+ "nodes_explored": 37,
+ "solve_time_s": 0.0716392993927002,
+ "seed": 80434
+}

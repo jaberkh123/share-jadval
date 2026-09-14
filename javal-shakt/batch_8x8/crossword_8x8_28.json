@@ -1,0 +1,417 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "length": 4,
+   "word_idx": 29275,
+   "word": "ملبس",
+   "clue": "پوشیده به لباس",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 7,
+   "word_idx": 33448,
+   "word": "همهگیری",
+   "clue": "گسترش سریع یک بیماری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فرایند"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 25985,
+   "word": "مارادونا",
+   "clue": "اسطوره فقید فوتبال آرژانتین",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "فرهنگ"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 32150,
+   "word": "نهج",
+   "clue": "روش و شیوه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "length": 4,
+   "word_idx": 4483,
+   "word": "اکدی",
+   "clue": "زبان یا تمدن مردم اکد",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 4,
+   "word_idx": 24188,
+   "word": "فنون",
+   "clue": "جمع فن، مهارت‌ها",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 25404,
+   "word": "لبو",
+   "clue": "چغندر پخته و شیرین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 17948,
+   "word": "سامانیان",
+   "clue": "دودمانی که احیای فرهنگ ایرانی را آغاز کرد",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "length": 7,
+   "word_idx": 27640,
+   "word": "مردرندی",
+   "clue": "حیله‌گری و زیرکی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "length": 4,
+   "word_idx": 32924,
+   "word": "هجمه",
+   "clue": "حمله و یورش",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 0,
+   "length": 5,
+   "word_idx": 33421,
+   "word": "همنفس",
+   "clue": "یار صمیمی و همدم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "length": 7,
+   "word_idx": 26247,
+   "word": "ماهنامه",
+   "clue": "نشریه ادواری سی‌روزه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "length": 7,
+   "word_idx": 32988,
+   "word": "هرجومرج",
+   "clue": "واژه‌ای نزدیک به معنای «بی‌نظمی»",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 30354,
+   "word": "مگا",
+   "clue": "پیشوندی به معنای بزرگ",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "length": 4,
+   "word_idx": 30816,
+   "word": "نادم",
+   "clue": "پشیمان",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 4,
+   "word_idx": 25802,
+   "word": "لیدا",
+   "clue": "نامی دخترانه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 31566,
+   "word": "نره",
+   "clue": "جنس نر در حیوانات",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 7,
+   "word_idx": 6348,
+   "word": "بروکلین",
+   "clue": "از بخش‌های پنج‌گانه نیویورک",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 7,
+   "word_idx": 19974,
+   "word": "سیندباد",
+   "clue": "دریانورد افسانه‌ای",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "length": 5,
+   "word_idx": 4771,
+   "word": "ایونی",
+   "clue": "نام قومی در یونان باستان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   null,
+   null,
+   "م",
+   "ل",
+   "ب",
+   "س",
+   null
+  ],
+  [
+   "ه",
+   "م",
+   "ه",
+   "گ",
+   "ی",
+   "ر",
+   "ی",
+   null
+  ],
+  [
+   "م",
+   "ا",
+   "ر",
+   "ا",
+   "د",
+   "و",
+   "ن",
+   "ا"
+  ],
+  [
+   "ن",
+   "ه",
+   "ج",
+   null,
+   "ا",
+   "ک",
+   "د",
+   "ی"
+  ],
+  [
+   "ف",
+   "ن",
+   "و",
+   "ن",
+   null,
+   "ل",
+   "ب",
+   "و"
+  ],
+  [
+   "س",
+   "ا",
+   "م",
+   "ا",
+   "ن",
+   "ی",
+   "ا",
+   "ن"
+  ],
+  [
+   null,
+   "م",
+   "ر",
+   "د",
+   "ر",
+   "ن",
+   "د",
+   "ی"
+  ],
+  [
+   null,
+   "ه",
+   "ج",
+   "م",
+   "ه",
+   null,
+   null,
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 16,
+  "high_medium": 2,
+  "hard": 2
+ },
+ "nodes_explored": 2049,
+ "solve_time_s": 9.092937231063843,
+ "seed": 81085
+}

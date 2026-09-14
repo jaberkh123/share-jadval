@@ -1,0 +1,418 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "length": 4,
+   "word_idx": 38883,
+   "word": "کوکا",
+   "clue": "گیاهی با برگ‌های محرک",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "length": 7,
+   "word_idx": 18913,
+   "word": "سفیدرنگ",
+   "clue": "دارای رنگی شبیه به برف یا شیر",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 18556,
+   "word": "سرسلامتی",
+   "clue": "تسلیت گفتن",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 4,
+   "word_idx": 38775,
+   "word": "کوفه",
+   "clue": "مرکز اداری در دوران اسلامی اولیه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "length": 3,
+   "word_idx": 36898,
+   "word": "چول",
+   "clue": "کج و خمیده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 3,
+   "word_idx": 16163,
+   "word": "ردا",
+   "clue": "بالاپوش بلند",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "length": 4,
+   "word_idx": 37558,
+   "word": "کاپا",
+   "clue": "حرف دهم الفبای یونانی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 2399,
+   "word": "استرالین",
+   "clue": "منسوب به سرزمین کانگوروها",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 7,
+   "word_idx": 9168,
+   "word": "ترانهها",
+   "clue": "جمع سرودها و آوازها",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "length": 4,
+   "word_idx": 2252,
+   "word": "ازون",
+   "clue": "لایه محافظ زمین",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 0,
+   "length": 5,
+   "word_idx": 19688,
+   "word": "سکرات",
+   "clue": "فیلسوف یونانی محکوم به نوشیدن شوکران",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "دانستنی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "length": 7,
+   "word_idx": 18670,
+   "word": "سرودسرا",
+   "clue": "شاعر و ترانه‌سرا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "length": 7,
+   "word_idx": 23971,
+   "word": "فسفاتاز",
+   "clue": "نوعی آنزیم تجزیه‌کننده فسفات",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 4,
+   "word_idx": 38998,
+   "word": "کیله",
+   "clue": "واژه‌ای نزدیک به معنای «اندازه»",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "length": 3,
+   "word_idx": 16505,
+   "word": "رنو",
+   "clue": "نوعی آهوی آفریقایی",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 3,
+   "word_idx": 34160,
+   "word": "ودا",
+   "clue": "قدیمی‌ترین کتاب مقدس آیین هندو",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "length": 4,
+   "word_idx": 37534,
+   "word": "کاهن",
+   "clue": "روحانی و پیشگوی معابد باستان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 7,
+   "word_idx": 37844,
+   "word": "کرمچاله",
+   "clue": "تونل فرضی در فضا-زمان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 7,
+   "word_idx": 3869,
+   "word": "انتوپیا",
+   "clue": "میزان بی‌نظمی در یک سیستم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "length": 5,
+   "word_idx": 40033,
+   "word": "گیلان",
+   "clue": "استان سرسبز شمالی ایران",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   null,
+   null,
+   "ک",
+   "و",
+   "ک",
+   "ا",
+   null
+  ],
+  [
+   null,
+   "س",
+   "ف",
+   "ی",
+   "د",
+   "ر",
+   "ن",
+   "گ"
+  ],
+  [
+   "س",
+   "ر",
+   "س",
+   "ل",
+   "ا",
+   "م",
+   "ت",
+   "ی"
+  ],
+  [
+   "ک",
+   "و",
+   "ف",
+   "ه",
+   null,
+   "چ",
+   "و",
+   "ل"
+  ],
+  [
+   "ر",
+   "د",
+   "ا",
+   null,
+   "ک",
+   "ا",
+   "پ",
+   "ا"
+  ],
+  [
+   "ا",
+   "س",
+   "ت",
+   "ر",
+   "ا",
+   "ل",
+   "ی",
+   "ن"
+  ],
+  [
+   "ت",
+   "ر",
+   "ا",
+   "ن",
+   "ه",
+   "ه",
+   "ا",
+   null
+  ],
+  [
+   null,
+   "ا",
+   "ز",
+   "و",
+   "ن",
+   null,
+   null,
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 14,
+  "high_medium": 3,
+  "hard": 2,
+  "low_medium": 1
+ },
+ "nodes_explored": 303,
+ "solve_time_s": 2.0704357624053955,
+ "seed": 80782
+}

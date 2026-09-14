@@ -1,0 +1,443 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "length": 3,
+   "word_idx": 23112,
+   "word": "غشی",
+   "clue": "کسی که زود از هوش می‌رود",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "length": 3,
+   "word_idx": 8833,
+   "word": "تبه",
+   "clue": "فساد و تباهی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "length": 3,
+   "word_idx": 7420,
+   "word": "بکا",
+   "clue": "گریه و زاری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "length": 3,
+   "word_idx": 25172,
+   "word": "قیم",
+   "clue": "سرپرست قانونی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "length": 3,
+   "word_idx": 3653,
+   "word": "امر",
+   "clue": "فرمان و حکم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "length": 3,
+   "word_idx": 21332,
+   "word": "صحو",
+   "clue": "هشیاری و بیداری",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 8,
+   "word_idx": 36563,
+   "word": "چرخانیدن",
+   "clue": "به گردش درآوردن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "افعال"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 8,
+   "word_idx": 2161,
+   "word": "اروندرود",
+   "clue": "رودخانه‌ای مرزی در جنوب غربی ایران",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 3,
+   "word_idx": 16582,
+   "word": "روا",
+   "clue": "جایز و شایسته",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 40390,
+   "word": "یکم",
+   "clue": "عدد آغازین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 3,
+   "word_idx": 24588,
+   "word": "قبر",
+   "clue": "جایگاه دفن مردگان",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "length": 3,
+   "word_idx": 25982,
+   "word": "مار",
+   "clue": "خزنده خزنده و سمی",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "length": 3,
+   "word_idx": 15647,
+   "word": "دیه",
+   "clue": "روستا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 4,
+   "length": 3,
+   "word_idx": 32997,
+   "word": "هرز",
+   "clue": "بیهوده و بی‌فایده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "length": 5,
+   "word_idx": 36372,
+   "word": "چارقد",
+   "clue": "پارچه چهارگوش برای پوشاندن سر",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 8,
+   "word_idx": 22995,
+   "word": "غبارروبی",
+   "clue": "زدودن گرد و خاک از چیزی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 8,
+   "word_idx": 21027,
+   "word": "شکمخواره",
+   "clue": "پرخور و شکم‌باره",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 5,
+   "word_idx": 40094,
+   "word": "یاران",
+   "clue": "هم‌نشینان و دوستان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "length": 5,
+   "word_idx": 31519,
+   "word": "ندیمه",
+   "clue": "خدمتکار زن در دربار یا خانه بزرگان",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 8,
+   "word_idx": 9882,
+   "word": "تقصیرکار",
+   "clue": "گناهکار و خطاکار",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "مشاغل"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 8,
+   "word_idx": 7692,
+   "word": "بیحدومرز",
+   "clue": "نامحدود و بی‌کران",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "length": 5,
+   "word_idx": 33462,
+   "word": "هموند",
+   "clue": "عضو یک مجموعه یا انجمن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   "غ",
+   "ش",
+   "ی",
+   null,
+   "ت",
+   "ب",
+   "ه"
+  ],
+  [
+   null,
+   "ب",
+   "ک",
+   "ا",
+   null,
+   "ق",
+   "ی",
+   "م"
+  ],
+  [
+   null,
+   "ا",
+   "م",
+   "ر",
+   null,
+   "ص",
+   "ح",
+   "و"
+  ],
+  [
+   "چ",
+   "ر",
+   "خ",
+   "ا",
+   "ن",
+   "ی",
+   "د",
+   "ن"
+  ],
+  [
+   "ا",
+   "ر",
+   "و",
+   "ن",
+   "د",
+   "ر",
+   "و",
+   "د"
+  ],
+  [
+   "ر",
+   "و",
+   "ا",
+   null,
+   "ی",
+   "ک",
+   "م",
+   null
+  ],
+  [
+   "ق",
+   "ب",
+   "ر",
+   null,
+   "م",
+   "ا",
+   "ر",
+   null
+  ],
+  [
+   "د",
+   "ی",
+   "ه",
+   null,
+   "ه",
+   "ر",
+   "ز",
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 14,
+  "low_medium": 1,
+  "high_medium": 3,
+  "easy": 2,
+  "hard": 2
+ },
+ "nodes_explored": 75,
+ "solve_time_s": 0.28797268867492676,
+ "seed": 80558
+}

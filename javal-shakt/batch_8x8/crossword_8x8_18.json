@@ -1,0 +1,442 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "length": 3,
+   "word_idx": 21975,
+   "word": "طلق",
+   "clue": "ورق پلاستیکی شفاف و بی‌رنگ",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "length": 3,
+   "word_idx": 20385,
+   "word": "شدن",
+   "clue": "صیرورت و تحول",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "افعال"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 3,
+   "word_idx": 25252,
+   "word": "لاس",
+   "clue": "نوعی سنگ معدنی آبی‌رنگ",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "length": 3,
+   "word_idx": 26228,
+   "word": "ماه",
+   "clue": "قمر زمین",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "نجوم"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 3,
+   "word_idx": 19939,
+   "word": "سیم",
+   "clue": "رشته‌ای برای انتقال برق",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "فناوری"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "length": 3,
+   "word_idx": 1886,
+   "word": "ادا",
+   "clue": "پرداخت دین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 7,
+   "word_idx": 26410,
+   "word": "مبتکران",
+   "clue": "خلاقان و نوآوران",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "length": 7,
+   "word_idx": 31937,
+   "word": "نقاشیخط",
+   "clue": "یک کلمه فارسی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "هنر"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "length": 3,
+   "word_idx": 40220,
+   "word": "یسر",
+   "clue": "آسانی و سهولت",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "length": 3,
+   "word_idx": 40092,
+   "word": "یار",
+   "clue": "همدم و دوست",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "length": 3,
+   "word_idx": 10019,
+   "word": "تمب",
+   "clue": "نام قدیم جزیره‌ای در خلیج فارس",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "length": 3,
+   "word_idx": 19128,
+   "word": "سنا",
+   "clue": "گیاه دارویی ملین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "طبیعت"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "length": 3,
+   "word_idx": 18186,
+   "word": "ستر",
+   "clue": "پوشش و پرده",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "length": 3,
+   "word_idx": 29801,
+   "word": "مهر",
+   "clue": "محبت و عاطفه",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "طبیعت"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "length": 4,
+   "word_idx": 21969,
+   "word": "طلسم",
+   "clue": "نوشته‌ای برای احضار جن یا دفع بلا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 8,
+   "word_idx": 25360,
+   "word": "لایبنیتس",
+   "clue": "فیلسوف و ریاضی‌دان آلمانی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 8,
+   "word_idx": 24812,
+   "word": "قسمتقسمت",
+   "clue": "تکه تکه شده",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "length": 5,
+   "word_idx": 37203,
+   "word": "کاربر",
+   "clue": "استفاده‌کننده از یک ابزار یا سامانه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فناوری"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 5,
+   "word_idx": 20638,
+   "word": "شمارش",
+   "clue": "به حساب آوردن",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 8,
+   "word_idx": 14071,
+   "word": "داداییسم",
+   "clue": "جنبشی هنری که در واکنش به جنگ جهانی اول و منطق شکل گرفت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "هنر"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 8,
+   "word_idx": 32141,
+   "word": "نهانخانه",
+   "clue": "محل پنهان کردن اشیاء",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "length": 4,
+   "word_idx": 21860,
+   "word": "طرار",
+   "clue": "دزد و جیب‌بر",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   "ط",
+   "ل",
+   "ق",
+   null,
+   "ش",
+   "د",
+   "ن",
+   null
+  ],
+  [
+   "ل",
+   "ا",
+   "س",
+   null,
+   "م",
+   "ا",
+   "ه",
+   null
+  ],
+  [
+   "س",
+   "ی",
+   "م",
+   null,
+   "ا",
+   "د",
+   "ا",
+   null
+  ],
+  [
+   "م",
+   "ب",
+   "ت",
+   "ک",
+   "ر",
+   "ا",
+   "ن",
+   null
+  ],
+  [
+   null,
+   "ن",
+   "ق",
+   "ا",
+   "ش",
+   "ی",
+   "خ",
+   "ط"
+  ],
+  [
+   null,
+   "ی",
+   "س",
+   "ر",
+   null,
+   "ی",
+   "ا",
+   "ر"
+  ],
+  [
+   null,
+   "ت",
+   "م",
+   "ب",
+   null,
+   "س",
+   "ن",
+   "ا"
+  ],
+  [
+   null,
+   "س",
+   "ت",
+   "ر",
+   null,
+   "م",
+   "ه",
+   "ر"
+  ]
+ ],
+ "grid_black": [
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ]
+ ],
+ "level_counts": {
+  "high_medium": 4,
+  "medium": 11,
+  "low_medium": 4,
+  "easy": 3
+ },
+ "nodes_explored": 145,
+ "solve_time_s": 0.0938262939453125,
+ "seed": 80620
+}

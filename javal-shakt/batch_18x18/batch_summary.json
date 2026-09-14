@@ -1,0 +1,518 @@
+{
+  "count": 30,
+  "target_count": 30,
+  "grid_size": "18x18",
+  "elapsed_s": 1969.3029074668884,
+  "crosswords": [
+    {
+      "index": 1,
+      "filename": "crossword_18x18_01",
+      "template_seed": 50017,
+      "solver_seed": 500031,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 110,
+      "solve_time_s": 0.61,
+      "distribution": {
+        "medium": 74,
+        "high_medium": 11,
+        "easy": 11,
+        "hard": 6,
+        "low_medium": 8
+      }
+    },
+    {
+      "index": 2,
+      "filename": "crossword_18x18_02",
+      "template_seed": 50034,
+      "solver_seed": 500069,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 96,
+      "solve_time_s": 4.94,
+      "distribution": {
+        "medium": 71,
+        "low_medium": 11,
+        "high_medium": 6,
+        "hard": 4,
+        "easy": 4
+      }
+    },
+    {
+      "index": 3,
+      "filename": "crossword_18x18_03",
+      "template_seed": 50068,
+      "solver_seed": 500124,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 106,
+      "solve_time_s": 2.36,
+      "distribution": {
+        "easy": 10,
+        "high_medium": 15,
+        "medium": 58,
+        "low_medium": 11,
+        "hard": 12
+      }
+    },
+    {
+      "index": 4,
+      "filename": "crossword_18x18_04",
+      "template_seed": 50085,
+      "solver_seed": 500155,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 108,
+      "solve_time_s": 0.54,
+      "distribution": {
+        "low_medium": 12,
+        "medium": 72,
+        "high_medium": 10,
+        "hard": 8,
+        "easy": 6
+      }
+    },
+    {
+      "index": 5,
+      "filename": "crossword_18x18_05",
+      "template_seed": 50136,
+      "solver_seed": 500248,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 106,
+      "solve_time_s": 0.64,
+      "distribution": {
+        "medium": 85,
+        "hard": 8,
+        "low_medium": 2,
+        "easy": 5,
+        "high_medium": 6
+      }
+    },
+    {
+      "index": 6,
+      "filename": "crossword_18x18_06",
+      "template_seed": 50170,
+      "solver_seed": 500310,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 106,
+      "solve_time_s": 2.19,
+      "distribution": {
+        "medium": 79,
+        "hard": 3,
+        "low_medium": 6,
+        "easy": 5,
+        "high_medium": 13
+      }
+    },
+    {
+      "index": 7,
+      "filename": "crossword_18x18_07",
+      "template_seed": 50204,
+      "solver_seed": 500372,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 100,
+      "solve_time_s": 17.92,
+      "distribution": {
+        "high_medium": 16,
+        "medium": 73,
+        "hard": 2,
+        "easy": 4,
+        "low_medium": 5
+      }
+    },
+    {
+      "index": 8,
+      "filename": "crossword_18x18_08",
+      "template_seed": 50238,
+      "solver_seed": 500441,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 104,
+      "solve_time_s": 2.23,
+      "distribution": {
+        "high_medium": 11,
+        "medium": 72,
+        "hard": 8,
+        "easy": 8,
+        "low_medium": 5
+      }
+    },
+    {
+      "index": 9,
+      "filename": "crossword_18x18_09",
+      "template_seed": 50255,
+      "solver_seed": 500465,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 106,
+      "solve_time_s": 3.13,
+      "distribution": {
+        "medium": 74,
+        "easy": 5,
+        "low_medium": 10,
+        "high_medium": 9,
+        "hard": 8
+      }
+    },
+    {
+      "index": 10,
+      "filename": "crossword_18x18_10",
+      "template_seed": 50272,
+      "solver_seed": 500496,
+      "actual_ratio": 0.2593,
+      "black_count": 84,
+      "num_slots": 106,
+      "solve_time_s": 0.52,
+      "distribution": {
+        "medium": 73,
+        "low_medium": 5,
+        "hard": 10,
+        "high_medium": 13,
+        "easy": 5
+      }
+    },
+    {
+      "index": 11,
+      "filename": "crossword_18x18_11",
+      "template_seed": 50289,
+      "solver_seed": 500534,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 100,
+      "solve_time_s": 11.23,
+      "distribution": {
+        "high_medium": 12,
+        "medium": 66,
+        "low_medium": 13,
+        "easy": 5,
+        "hard": 4
+      }
+    },
+    {
+      "index": 12,
+      "filename": "crossword_18x18_12",
+      "template_seed": 50306,
+      "solver_seed": 500558,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 104,
+      "solve_time_s": 5.91,
+      "distribution": {
+        "high_medium": 8,
+        "medium": 75,
+        "easy": 8,
+        "low_medium": 10,
+        "hard": 3
+      }
+    },
+    {
+      "index": 13,
+      "filename": "crossword_18x18_13",
+      "template_seed": 50323,
+      "solver_seed": 500589,
+      "actual_ratio": 0.2593,
+      "black_count": 84,
+      "num_slots": 104,
+      "solve_time_s": 1.98,
+      "distribution": {
+        "medium": 67,
+        "low_medium": 11,
+        "hard": 7,
+        "high_medium": 14,
+        "easy": 5
+      }
+    },
+    {
+      "index": 14,
+      "filename": "crossword_18x18_14",
+      "template_seed": 50374,
+      "solver_seed": 500682,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 110,
+      "solve_time_s": 3.84,
+      "distribution": {
+        "medium": 79,
+        "hard": 6,
+        "high_medium": 10,
+        "low_medium": 8,
+        "easy": 7
+      }
+    },
+    {
+      "index": 15,
+      "filename": "crossword_18x18_15",
+      "template_seed": 50391,
+      "solver_seed": 500748,
+      "actual_ratio": 0.2593,
+      "black_count": 84,
+      "num_slots": 102,
+      "solve_time_s": 7.05,
+      "distribution": {
+        "high_medium": 12,
+        "easy": 12,
+        "hard": 7,
+        "medium": 69,
+        "low_medium": 2
+      }
+    },
+    {
+      "index": 16,
+      "filename": "crossword_18x18_16",
+      "template_seed": 50425,
+      "solver_seed": 500775,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 102,
+      "solve_time_s": 1.71,
+      "distribution": {
+        "medium": 75,
+        "high_medium": 9,
+        "hard": 6,
+        "easy": 6,
+        "low_medium": 6
+      }
+    },
+    {
+      "index": 17,
+      "filename": "crossword_18x18_17",
+      "template_seed": 50442,
+      "solver_seed": 500827,
+      "actual_ratio": 0.2593,
+      "black_count": 84,
+      "num_slots": 104,
+      "solve_time_s": 2.78,
+      "distribution": {
+        "low_medium": 12,
+        "medium": 70,
+        "high_medium": 12,
+        "hard": 6,
+        "easy": 4
+      }
+    },
+    {
+      "index": 18,
+      "filename": "crossword_18x18_18",
+      "template_seed": 50459,
+      "solver_seed": 500837,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 106,
+      "solve_time_s": 1.7,
+      "distribution": {
+        "low_medium": 5,
+        "hard": 7,
+        "medium": 71,
+        "easy": 14,
+        "high_medium": 9
+      }
+    },
+    {
+      "index": 19,
+      "filename": "crossword_18x18_19",
+      "template_seed": 50476,
+      "solver_seed": 500903,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 96,
+      "solve_time_s": 13.35,
+      "distribution": {
+        "medium": 74,
+        "high_medium": 9,
+        "low_medium": 9,
+        "easy": 1,
+        "hard": 3
+      }
+    },
+    {
+      "index": 20,
+      "filename": "crossword_18x18_20",
+      "template_seed": 50493,
+      "solver_seed": 500920,
+      "actual_ratio": 0.2593,
+      "black_count": 84,
+      "num_slots": 100,
+      "solve_time_s": 1.85,
+      "distribution": {
+        "medium": 67,
+        "hard": 6,
+        "high_medium": 13,
+        "low_medium": 7,
+        "easy": 7
+      }
+    },
+    {
+      "index": 21,
+      "filename": "crossword_18x18_21",
+      "template_seed": 50578,
+      "solver_seed": 501054,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 108,
+      "solve_time_s": 19.55,
+      "distribution": {
+        "medium": 72,
+        "easy": 9,
+        "high_medium": 15,
+        "hard": 7,
+        "low_medium": 5
+      }
+    },
+    {
+      "index": 22,
+      "filename": "crossword_18x18_22",
+      "template_seed": 50595,
+      "solver_seed": 501085,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 108,
+      "solve_time_s": 1.19,
+      "distribution": {
+        "medium": 81,
+        "high_medium": 7,
+        "low_medium": 9,
+        "hard": 7,
+        "easy": 4
+      }
+    },
+    {
+      "index": 23,
+      "filename": "crossword_18x18_23",
+      "template_seed": 50646,
+      "solver_seed": 501199,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 98,
+      "solve_time_s": 15.08,
+      "distribution": {
+        "medium": 65,
+        "easy": 11,
+        "low_medium": 6,
+        "high_medium": 14,
+        "hard": 2
+      }
+    },
+    {
+      "index": 24,
+      "filename": "crossword_18x18_24",
+      "template_seed": 50663,
+      "solver_seed": 501258,
+      "actual_ratio": 0.2593,
+      "black_count": 84,
+      "num_slots": 102,
+      "solve_time_s": 14.47,
+      "distribution": {
+        "medium": 78,
+        "low_medium": 7,
+        "high_medium": 8,
+        "hard": 6,
+        "easy": 3
+      }
+    },
+    {
+      "index": 25,
+      "filename": "crossword_18x18_25",
+      "template_seed": 50680,
+      "solver_seed": 501240,
+      "actual_ratio": 0.2407,
+      "black_count": 78,
+      "num_slots": 108,
+      "solve_time_s": 1.4,
+      "distribution": {
+        "medium": 76,
+        "low_medium": 6,
+        "hard": 4,
+        "high_medium": 13,
+        "easy": 9
+      }
+    },
+    {
+      "index": 26,
+      "filename": "crossword_18x18_26",
+      "template_seed": 50697,
+      "solver_seed": 501271,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 104,
+      "solve_time_s": 5.84,
+      "distribution": {
+        "medium": 81,
+        "hard": 7,
+        "easy": 6,
+        "high_medium": 7,
+        "low_medium": 3
+      }
+    },
+    {
+      "index": 27,
+      "filename": "crossword_18x18_27",
+      "template_seed": 50731,
+      "solver_seed": 501340,
+      "actual_ratio": 0.2593,
+      "black_count": 84,
+      "num_slots": 104,
+      "solve_time_s": 1.95,
+      "distribution": {
+        "high_medium": 15,
+        "easy": 10,
+        "medium": 67,
+        "low_medium": 8,
+        "hard": 4
+      }
+    },
+    {
+      "index": 28,
+      "filename": "crossword_18x18_28",
+      "template_seed": 50782,
+      "solver_seed": 501426,
+      "actual_ratio": 0.2593,
+      "black_count": 84,
+      "num_slots": 108,
+      "solve_time_s": 0.59,
+      "distribution": {
+        "medium": 81,
+        "easy": 6,
+        "low_medium": 6,
+        "high_medium": 12,
+        "hard": 3
+      }
+    },
+    {
+      "index": 29,
+      "filename": "crossword_18x18_29",
+      "template_seed": 50799,
+      "solver_seed": 501457,
+      "actual_ratio": 0.2346,
+      "black_count": 76,
+      "num_slots": 114,
+      "solve_time_s": 0.43,
+      "distribution": {
+        "low_medium": 12,
+        "medium": 76,
+        "high_medium": 9,
+        "easy": 9,
+        "hard": 8
+      }
+    },
+    {
+      "index": 30,
+      "filename": "crossword_18x18_30",
+      "template_seed": 50816,
+      "solver_seed": 501488,
+      "actual_ratio": 0.2469,
+      "black_count": 80,
+      "num_slots": 108,
+      "solve_time_s": 1.28,
+      "distribution": {
+        "medium": 80,
+        "hard": 6,
+        "low_medium": 9,
+        "easy": 7,
+        "high_medium": 6
+      }
+    }
+  ]
+}

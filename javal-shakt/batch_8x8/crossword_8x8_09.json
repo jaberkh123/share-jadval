@@ -1,0 +1,443 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "length": 3,
+   "word_idx": 30005,
+   "word": "مود",
+   "clue": "حالت روحی یا شیوه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "length": 3,
+   "word_idx": 13965,
+   "word": "خپل",
+   "clue": "چاق و کوتاه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 7,
+   "word_idx": 18516,
+   "word": "سردمدار",
+   "clue": "پیشوا و رهبر گروه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 7,
+   "word_idx": 37725,
+   "word": "کدخدایی",
+   "clue": "ریاست و سرپرستی روستا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 5,
+   "word_idx": 34576,
+   "word": "ویولت",
+   "clue": "یک کلمه فارسی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "length": 5,
+   "word_idx": 18625,
+   "word": "سرمشق",
+   "clue": "اسوه و نمونه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "length": 7,
+   "word_idx": 29442,
+   "word": "مناسبات",
+   "clue": "روابط و پیوندها",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "length": 7,
+   "word_idx": 7129,
+   "word": "بهزیستی",
+   "clue": "سازمان متولی رفاه و سلامت اجتماعی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "length": 3,
+   "word_idx": 25405,
+   "word": "لبی",
+   "clue": "منسوب به لب",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "length": 3,
+   "word_idx": 29319,
+   "word": "ملل",
+   "clue": "جمع ملت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "length": 4,
+   "word_idx": 28175,
+   "word": "مسکو",
+   "clue": "پایتخت روسیه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 4,
+   "word_idx": 34191,
+   "word": "وردی",
+   "clue": "آهنگساز مشهور اپراهای ایتالیایی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "length": 3,
+   "word_idx": 26437,
+   "word": "مبل",
+   "clue": "اثاثیه نشستن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 4,
+   "word_idx": 14389,
+   "word": "ددخو",
+   "clue": "کسی که خوی درندگی دارد",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "length": 3,
+   "word_idx": 32148,
+   "word": "نهب",
+   "clue": "غارت و چپاول",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "length": 7,
+   "word_idx": 27436,
+   "word": "مدلسازی",
+   "clue": "شبیه‌سازی واقعیت",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "هنر"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 7,
+   "word_idx": 12824,
+   "word": "خداترسی",
+   "clue": "پرهیزگاری",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "دینی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 3,
+   "word_idx": 34934,
+   "word": "پای",
+   "clue": "عضو حرکتی بدن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "بدن انسان"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "length": 4,
+   "word_idx": 26430,
+   "word": "مبسم",
+   "clue": "محل بوسیدن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 3,
+   "word_idx": 25473,
+   "word": "لری",
+   "clue": "گویشی در غرب ایران",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "دانستنی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "length": 4,
+   "word_idx": 20061,
+   "word": "شاتل",
+   "clue": "فضاپیمای رفت و برگشتی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "length": 4,
+   "word_idx": 24616,
+   "word": "قتیل",
+   "clue": "کشته شده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   "م",
+   "و",
+   "د",
+   null,
+   "خ",
+   "پ",
+   "ل",
+   null
+  ],
+  [
+   "س",
+   "ر",
+   "د",
+   "م",
+   "د",
+   "ا",
+   "ر",
+   null
+  ],
+  [
+   "ک",
+   "د",
+   "خ",
+   "د",
+   "ا",
+   "ی",
+   "ی",
+   null
+  ],
+  [
+   "و",
+   "ی",
+   "و",
+   "ل",
+   "ت",
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null,
+   "س",
+   "ر",
+   "م",
+   "ش",
+   "ق"
+  ],
+  [
+   null,
+   "م",
+   "ن",
+   "ا",
+   "س",
+   "ب",
+   "ا",
+   "ت"
+  ],
+  [
+   null,
+   "ب",
+   "ه",
+   "ز",
+   "ی",
+   "س",
+   "ت",
+   "ی"
+  ],
+  [
+   null,
+   "ل",
+   "ب",
+   "ی",
+   null,
+   "م",
+   "ل",
+   "ل"
+  ]
+ ],
+ "grid_black": [
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ]
+ ],
+ "level_counts": {
+  "medium": 18,
+  "hard": 1,
+  "high_medium": 1,
+  "easy": 1,
+  "low_medium": 1
+ },
+ "nodes_explored": 39,
+ "solve_time_s": 0.1151268482208252,
+ "seed": 80310
+}

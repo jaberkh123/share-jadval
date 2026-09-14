@@ -1,0 +1,417 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "length": 5,
+   "word_idx": 25487,
+   "word": "لشکرک",
+   "clue": "منطقه‌ای کوهستانی در شمال شرق تهران",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 7,
+   "word_idx": 1974,
+   "word": "اراسموس",
+   "clue": "فیلسوف و الهی‌دان هلندی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 34662,
+   "word": "پارادایم",
+   "clue": "الگو و چارچوب فکری حاکم بر یک علم",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "علمی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 25404,
+   "word": "لبو",
+   "clue": "چغندر پخته و شیرین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "length": 3,
+   "word_idx": 25010,
+   "word": "قمه",
+   "clue": "سلاح سرد کوتاه و پهن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 3,
+   "word_idx": 1886,
+   "word": "ادا",
+   "clue": "پرداخت دین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 22631,
+   "word": "عفو",
+   "clue": "گذشت از خطا",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 17974,
+   "word": "سانتریول",
+   "clue": "اندامک دخیل در تقسیم سلولی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "علمی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "length": 7,
+   "word_idx": 32574,
+   "word": "نیروانا",
+   "clue": "حالت رهایی از رنج در بودیسم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "length": 5,
+   "word_idx": 33735,
+   "word": "هیتیت",
+   "clue": "تمدنی در آناتولی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "length": 6,
+   "word_idx": 25339,
+   "word": "لاپلاس",
+   "clue": "ریاضی‌دان و فیزیک‌دان بزرگ فرانسوی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 7,
+   "word_idx": 20400,
+   "word": "شرابدان",
+   "clue": "ظرف نگهداری شراب",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 7,
+   "word_idx": 37290,
+   "word": "کاروانی",
+   "clue": "مربوط به گروه مسافران",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 16222,
+   "word": "رسا",
+   "clue": "خوش‌صدا و گویا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "length": 3,
+   "word_idx": 9303,
+   "word": "تره",
+   "clue": "سبزی با ساقه‌های بلند و سفید",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "خوراکی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 3,
+   "word_idx": 38322,
+   "word": "کمد",
+   "clue": "اثاثیه نگهداری لباس",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 16840,
+   "word": "روی",
+   "clue": "فلزی برای گالوانیزه کردن آهن",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "length": 7,
+   "word_idx": 33948,
+   "word": "واقعیات",
+   "clue": "حقایق و امور راستین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "length": 7,
+   "word_idx": 19950,
+   "word": "سیمفونی",
+   "clue": "اثر بزرگ ارکسترال",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "length": 6,
+   "word_idx": 29893,
+   "word": "مهولات",
+   "clue": "شهرستانی در استان خراسان رضوی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "طبیعت"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   "ل",
+   "ش",
+   "ک",
+   "ر",
+   "ک",
+   null,
+   null,
+   null
+  ],
+  [
+   "ا",
+   "ر",
+   "ا",
+   "س",
+   "م",
+   "و",
+   "س",
+   null
+  ],
+  [
+   "پ",
+   "ا",
+   "ر",
+   "ا",
+   "د",
+   "ا",
+   "ی",
+   "م"
+  ],
+  [
+   "ل",
+   "ب",
+   "و",
+   null,
+   null,
+   "ق",
+   "م",
+   "ه"
+  ],
+  [
+   "ا",
+   "د",
+   "ا",
+   null,
+   null,
+   "ع",
+   "ف",
+   "و"
+  ],
+  [
+   "س",
+   "ا",
+   "ن",
+   "ت",
+   "ر",
+   "ی",
+   "و",
+   "ل"
+  ],
+  [
+   null,
+   "ن",
+   "ی",
+   "ر",
+   "و",
+   "ا",
+   "ن",
+   "ا"
+  ],
+  [
+   null,
+   null,
+   null,
+   "ه",
+   "ی",
+   "ت",
+   "ی",
+   "ت"
+  ]
+ ],
+ "grid_black": [
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ ],
+ "level_counts": {
+  "medium": 13,
+  "high_medium": 4,
+  "easy": 3
+ },
+ "nodes_explored": 1043,
+ "solve_time_s": 4.559589624404907,
+ "seed": 80465
+}

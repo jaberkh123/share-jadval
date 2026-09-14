@@ -1,0 +1,417 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "length": 5,
+   "word_idx": 287,
+   "word": "آدمکش",
+   "clue": "جانی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 5,
+   "word_idx": 33808,
+   "word": "هیولی",
+   "clue": "ماده اولیه و بی‌شکل در فلسفه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 34196,
+   "word": "ورزشدوست",
+   "clue": "علاقه‌مند به فعالیت‌های بدنی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 5688,
+   "word": "بخو",
+   "clue": "پابند و دلبسته",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "length": 4,
+   "word_idx": 4559,
+   "word": "ایاب",
+   "clue": "آمد و رفت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 4,
+   "word_idx": 36998,
+   "word": "چینه",
+   "clue": "لایه و طبقه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 25664,
+   "word": "لور",
+   "clue": "از اقوام ایرانی ساکن غرب کشور",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 33097,
+   "word": "هزینهساز",
+   "clue": "پرهزینه و گران‌قیمت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 3,
+   "length": 5,
+   "word_idx": 14614,
+   "word": "درونی",
+   "clue": "باطنی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "length": 5,
+   "word_idx": 25398,
+   "word": "لبنان",
+   "clue": "کشوری در کرانه شرقی دریای مدیترانه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "length": 6,
+   "word_idx": 1115,
+   "word": "آهوبچه",
+   "clue": "بچه آهو",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 6,
+   "word_idx": 15550,
+   "word": "دیرخیز",
+   "clue": "کسی که صبح‌ها دیر از خواب برمی‌خیزد",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 6,
+   "word_idx": 30064,
+   "word": "موزونی",
+   "clue": "دارای تناسب و هماهنگی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 38148,
+   "word": "کلش",
+   "clue": "ساقه خشکیده گندم و جو",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "length": 4,
+   "word_idx": 33526,
+   "word": "هندل",
+   "clue": "آهنگساز مشهور آلمانی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 4,
+   "word_idx": 21102,
+   "word": "شیدا",
+   "clue": "عاشق و دلداده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 32980,
+   "word": "هرب",
+   "clue": "گریز و فرار",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 5,
+   "length": 6,
+   "word_idx": 34551,
+   "word": "ویلسون",
+   "clue": "رئیس‌جمهور اسبق آمریکا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فرهنگ"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "length": 6,
+   "word_idx": 17995,
+   "word": "ساوانا",
+   "clue": "دشت‌های وسیع گرمسیری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "length": 6,
+   "word_idx": 8795,
+   "word": "تبرزین",
+   "clue": "نوعی تبر کوچک",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   "آ",
+   "د",
+   "م",
+   "ک",
+   "ش",
+   null,
+   null,
+   null
+  ],
+  [
+   "ه",
+   "ی",
+   "و",
+   "ل",
+   "ی",
+   null,
+   null,
+   null
+  ],
+  [
+   "و",
+   "ر",
+   "ز",
+   "ش",
+   "د",
+   "و",
+   "س",
+   "ت"
+  ],
+  [
+   "ب",
+   "خ",
+   "و",
+   null,
+   "ا",
+   "ی",
+   "ا",
+   "ب"
+  ],
+  [
+   "چ",
+   "ی",
+   "ن",
+   "ه",
+   null,
+   "ل",
+   "و",
+   "ر"
+  ],
+  [
+   "ه",
+   "ز",
+   "ی",
+   "ن",
+   "ه",
+   "س",
+   "ا",
+   "ز"
+  ],
+  [
+   null,
+   null,
+   null,
+   "د",
+   "ر",
+   "و",
+   "ن",
+   "ی"
+  ],
+  [
+   null,
+   null,
+   null,
+   "ل",
+   "ب",
+   "ن",
+   "ا",
+   "ن"
+  ]
+ ],
+ "grid_black": [
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ ],
+ "level_counts": {
+  "low_medium": 1,
+  "medium": 18,
+  "high_medium": 1
+ },
+ "nodes_explored": 1423,
+ "solve_time_s": 1.2829267978668213,
+ "seed": 80062
+}

@@ -1,0 +1,419 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "length": 5,
+   "word_idx": 2296,
+   "word": "استاد",
+   "clue": "مدرس عالی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "length": 6,
+   "word_idx": 30851,
+   "word": "ناروان",
+   "clue": "غیرسیال و دشوار در حرکت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 7,
+   "word_idx": 31447,
+   "word": "نجیبانه",
+   "clue": "از روی شرافت و بزرگواری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 39155,
+   "word": "گاه",
+   "clue": "زمان و هنگام",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "length": 4,
+   "word_idx": 31659,
+   "word": "نشاط",
+   "clue": "شادمانی و سرزندگی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 4,
+   "word_idx": 33216,
+   "word": "همام",
+   "clue": "واژه‌ای نزدیک به معنی «سخن‌چین»",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 11165,
+   "word": "جدل",
+   "clue": "ستیزه و مشاجره",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "length": 7,
+   "word_idx": 31896,
+   "word": "نفعجویی",
+   "clue": "سودجویی",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "length": 6,
+   "word_idx": 4490,
+   "word": "اکراین",
+   "clue": "کشوری در اروپای شرقی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "length": 5,
+   "word_idx": 31193,
+   "word": "نامیه",
+   "clue": "قوه رشد و نمو",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 0,
+   "length": 3,
+   "word_idx": 32514,
+   "word": "نگه",
+   "clue": "مراقبت و پاسداری",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 7,
+   "word_idx": 3876,
+   "word": "انجامنا",
+   "clue": "پایتخت چاد",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 8,
+   "word_idx": 18037,
+   "word": "سایهافکن",
+   "clue": "آنچه بر جایی سایه می‌افکند",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 9185,
+   "word": "ترب",
+   "clue": "گیاه ریشه‌ای تند",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "طبیعت"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "length": 4,
+   "word_idx": 28783,
+   "word": "معرا",
+   "clue": "برهنه و عریان",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 4,
+   "word_idx": 4219,
+   "word": "اوان",
+   "clue": "زمان آغاز و شروع",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 11004,
+   "word": "جام",
+   "clue": "ظرف نوشیدنی در شعر کلاسیک",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 8,
+   "word_idx": 14252,
+   "word": "دانشجویی",
+   "clue": "مربوط به محصل دانشگاه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "length": 7,
+   "word_idx": 32130,
+   "word": "نهادینه",
+   "clue": "درونی شده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "length": 3,
+   "word_idx": 21978,
+   "word": "طلی",
+   "clue": "زر و طلا",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   "ا",
+   "س",
+   "ت",
+   "ا",
+   "د",
+   null,
+   null
+  ],
+  [
+   null,
+   "ن",
+   "ا",
+   "ر",
+   "و",
+   "ا",
+   "ن",
+   null
+  ],
+  [
+   "ن",
+   "ج",
+   "ی",
+   "ب",
+   "ا",
+   "ن",
+   "ه",
+   null
+  ],
+  [
+   "گ",
+   "ا",
+   "ه",
+   null,
+   "ن",
+   "ش",
+   "ا",
+   "ط"
+  ],
+  [
+   "ه",
+   "م",
+   "ا",
+   "م",
+   null,
+   "ج",
+   "د",
+   "ل"
+  ],
+  [
+   null,
+   "ن",
+   "ف",
+   "ع",
+   "ج",
+   "و",
+   "ی",
+   "ی"
+  ],
+  [
+   null,
+   "ا",
+   "ک",
+   "ر",
+   "ا",
+   "ی",
+   "ن",
+   null
+  ],
+  [
+   null,
+   null,
+   "ن",
+   "ا",
+   "م",
+   "ی",
+   "ه",
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 12,
+  "low_medium": 2,
+  "hard": 1,
+  "easy": 2,
+  "high_medium": 3
+ },
+ "nodes_explored": 193,
+ "solve_time_s": 1.4484925270080566,
+ "seed": 81209
+}

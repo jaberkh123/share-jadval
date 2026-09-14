@@ -1,0 +1,419 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "length": 5,
+   "word_idx": 27827,
+   "word": "مریلا",
+   "clue": "بازیگر زن سینمای ایران، همسر سابق پژمان بازغی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فرهنگ"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 6,
+   "word_idx": 31252,
+   "word": "ناوارد",
+   "clue": "بی‌تجربه و تازه‌کار",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 3610,
+   "word": "امامزاده",
+   "clue": "مزار فرزندان امامان در تاریخ ایران",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 11757,
+   "word": "حاج",
+   "clue": "قصد و آهنگ",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "length": 3,
+   "word_idx": 29202,
+   "word": "ملا",
+   "clue": "عنوان سنتی برای روحانیون",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "علمی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 3,
+   "word_idx": 40207,
+   "word": "یزد",
+   "clue": "مرکز استان کویری ایران",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 33671,
+   "word": "هون",
+   "clue": "سنگی برای تیز کردن ابزار",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 10096,
+   "word": "تناوبدار",
+   "clue": "دارای نظم نوبتی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فناوری"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 2,
+   "length": 6,
+   "word_idx": 14933,
+   "word": "دلداری",
+   "clue": "تسکین خاطر",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "length": 5,
+   "word_idx": 32194,
+   "word": "نواری",
+   "clue": "دارای شکل خطی و باریک",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 0,
+   "length": 5,
+   "word_idx": 30758,
+   "word": "ناحیت",
+   "clue": "سرزمین و اقلیم",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 6,
+   "word_idx": 26161,
+   "word": "مامازن",
+   "clue": "روستایی در شهرستان پاکدشت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 8,
+   "word_idx": 16585,
+   "word": "رواجدادن",
+   "clue": "گسترش دادن و مرسوم کردن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فناوری"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 40147,
+   "word": "یام",
+   "clue": "پیک و چاپار قدیم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "length": 3,
+   "word_idx": 34420,
+   "word": "ولو",
+   "clue": "پراکنده و آشفته",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 3,
+   "word_idx": 25460,
+   "word": "لرز",
+   "clue": "تکان‌های متوالی بدن از سرما یا ترس",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 5705,
+   "word": "بدا",
+   "clue": "افسوس و دریغ",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 8,
+   "word_idx": 1894,
+   "word": "ادامهدار",
+   "clue": "پایدار و ممتد",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 6,
+   "length": 6,
+   "word_idx": 14979,
+   "word": "دلواری",
+   "clue": "اهل شهر دلوار",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "length": 5,
+   "word_idx": 32854,
+   "word": "هانری",
+   "clue": "نام کوچک نقاش مشهور فرانسوی، ماتیس",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   "م",
+   "ر",
+   "ی",
+   "ل",
+   "ا",
+   null,
+   null
+  ],
+  [
+   "ن",
+   "ا",
+   "و",
+   "ا",
+   "ر",
+   "د",
+   null,
+   null
+  ],
+  [
+   "ا",
+   "م",
+   "ا",
+   "م",
+   "ز",
+   "ا",
+   "د",
+   "ه"
+  ],
+  [
+   "ح",
+   "ا",
+   "ج",
+   null,
+   null,
+   "م",
+   "ل",
+   "ا"
+  ],
+  [
+   "ی",
+   "ز",
+   "د",
+   null,
+   null,
+   "ه",
+   "و",
+   "ن"
+  ],
+  [
+   "ت",
+   "ن",
+   "ا",
+   "و",
+   "ب",
+   "د",
+   "ا",
+   "ر"
+  ],
+  [
+   null,
+   null,
+   "د",
+   "ل",
+   "د",
+   "ا",
+   "ر",
+   "ی"
+  ],
+  [
+   null,
+   null,
+   "ن",
+   "و",
+   "ا",
+   "ر",
+   "ی",
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 13,
+  "hard": 2,
+  "easy": 1,
+  "high_medium": 2,
+  "low_medium": 2
+ },
+ "nodes_explored": 34,
+ "solve_time_s": 0.11350011825561523,
+ "seed": 80899
+}

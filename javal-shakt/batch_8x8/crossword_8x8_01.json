@@ -1,0 +1,418 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 1,
+   "length": 4,
+   "word_idx": 2806,
+   "word": "اشتر",
+   "clue": "حیوان کوهان‌دار",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "جانوران"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "length": 7,
+   "word_idx": 5452,
+   "word": "بانجابت",
+   "clue": "دارای شرم و حیا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 26138,
+   "word": "مالومنال",
+   "clue": "ثروت و دارایی‌های دنیوی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 4,
+   "word_idx": 21634,
+   "word": "ضجیع",
+   "clue": "هم‌خوابه",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "length": 3,
+   "word_idx": 11368,
+   "word": "جلف",
+   "clue": "سبک‌سر و بی‌وقار",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 3,
+   "word_idx": 21912,
+   "word": "طعم",
+   "clue": "مزه و چشایی غذا",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "length": 4,
+   "word_idx": 22918,
+   "word": "عیان",
+   "clue": "آشکار و هویدا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 16358,
+   "word": "رفاهطلبی",
+   "clue": "تمایل به زندگی راحت و بی‌دغدغه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 7,
+   "word_idx": 6172,
+   "word": "بررسیها",
+   "clue": "مطالعات و کنکاش‌ها",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "length": 4,
+   "word_idx": 32139,
+   "word": "نهان",
+   "clue": "پوشیده و مستور",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 0,
+   "length": 5,
+   "word_idx": 28537,
+   "word": "مضطرب",
+   "clue": "پریشان‌خاطر",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 7,
+   "word_idx": 1320,
+   "word": "اباجعفر",
+   "clue": "نام خاص؛ بیشتر به عنوان اسم شخص شناخته می‌شود",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "فرهنگ"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 7,
+   "word_idx": 20151,
+   "word": "شالیمار",
+   "clue": "باغی مشهور در لاهور",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 4,
+   "word_idx": 10196,
+   "word": "تنوع",
+   "clue": "گوناگونی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "length": 3,
+   "word_idx": 33108,
+   "word": "هسن",
+   "clue": "شهری در آلمان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 3,
+   "word_idx": 16116,
+   "word": "رجم",
+   "clue": "سنگسار کردن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "length": 4,
+   "word_idx": 22615,
+   "word": "عطیه",
+   "clue": "بخشیده شده یا هدیه",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "فناوری"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "length": 7,
+   "word_idx": 3888,
+   "word": "انجیلها",
+   "clue": "کتاب‌های مقدس مسیحیان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "length": 7,
+   "word_idx": 5342,
+   "word": "بالابان",
+   "clue": "کسی که از «بالا» نگهداری یا مراقبت می‌کند",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مشاغل"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "length": 5,
+   "word_idx": 9955,
+   "word": "تلفنی",
+   "clue": "مرتبط با تلفن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   "ا",
+   "ش",
+   "ت",
+   "ر",
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   "ب",
+   "ا",
+   "ن",
+   "ج",
+   "ا",
+   "ب",
+   "ت"
+  ],
+  [
+   "م",
+   "ا",
+   "ل",
+   "و",
+   "م",
+   "ن",
+   "ا",
+   "ل"
+  ],
+  [
+   "ض",
+   "ج",
+   "ی",
+   "ع",
+   null,
+   "ج",
+   "ل",
+   "ف"
+  ],
+  [
+   "ط",
+   "ع",
+   "م",
+   null,
+   "ع",
+   "ی",
+   "ا",
+   "ن"
+  ],
+  [
+   "ر",
+   "ف",
+   "ا",
+   "ه",
+   "ط",
+   "ل",
+   "ب",
+   "ی"
+  ],
+  [
+   "ب",
+   "ر",
+   "ر",
+   "س",
+   "ی",
+   "ه",
+   "ا",
+   null
+  ],
+  [
+   null,
+   null,
+   null,
+   "ن",
+   "ه",
+   "ا",
+   "ن",
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 13,
+  "hard": 3,
+  "high_medium": 3,
+  "low_medium": 1
+ },
+ "nodes_explored": 2308,
+ "solve_time_s": 7.253693103790283,
+ "seed": 80052
+}

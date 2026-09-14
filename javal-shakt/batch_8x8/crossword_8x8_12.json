@@ -1,0 +1,417 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 2,
+   "length": 5,
+   "word_idx": 2006,
+   "word": "ارتخا",
+   "clue": "سستی و ناتوانی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 2,
+   "length": 5,
+   "word_idx": 28116,
+   "word": "مسروق",
+   "clue": "دزدیده شده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 28058,
+   "word": "مستمندان",
+   "clue": "نیازمندان و تهیدستان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 4,
+   "word_idx": 17088,
+   "word": "زایا",
+   "clue": "بارور و حاصل‌خیز",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "length": 3,
+   "word_idx": 24072,
+   "word": "فقط",
+   "clue": "صرفاً",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 3,
+   "word_idx": 39203,
+   "word": "گدا",
+   "clue": "یک کلمه فارسی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "length": 4,
+   "word_idx": 18775,
+   "word": "سرین",
+   "clue": "بخش عقبی بدن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 10784,
+   "word": "تیزپرواز",
+   "clue": "پرنده یا هواپیمای بسیار سریع",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "length": 5,
+   "word_idx": 19314,
+   "word": "سهنبش",
+   "clue": "ملک واقع در نبش سه خیابان",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "length": 5,
+   "word_idx": 8514,
+   "word": "تاجری",
+   "clue": "شغل بازرگان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 0,
+   "length": 4,
+   "word_idx": 27898,
+   "word": "مزگت",
+   "clue": "نام کهن مسجد",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 1,
+   "length": 6,
+   "word_idx": 17778,
+   "word": "سادیست",
+   "clue": "آزارگر جنسی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 8,
+   "word_idx": 3643,
+   "word": "امتیازها",
+   "clue": "یک کلمه فارسی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 4,
+   "word_idx": 16259,
+   "word": "رسما",
+   "clue": "به صورت رسمی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "length": 3,
+   "word_idx": 35764,
+   "word": "پنج",
+   "clue": "عدد پس از چهار",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 3,
+   "word_idx": 9294,
+   "word": "ترن",
+   "clue": "قطار شهری یا بین‌شهری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "length": 4,
+   "word_idx": 18415,
+   "word": "سربر",
+   "clue": "تافتن و بافتن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 8,
+   "word_idx": 13619,
+   "word": "خودفروشی",
+   "clue": "فحشا و تن‌فروشی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 6,
+   "word_idx": 3245,
+   "word": "اقاقیا",
+   "clue": "درختی با گل‌های سفید معطر",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "طبیعت"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "length": 4,
+   "word_idx": 31761,
+   "word": "نطنز",
+   "clue": "شهری در استان اصفهان مشهور به شهر گلابی و انرژی هسته‌ای",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   null,
+   "ا",
+   "ر",
+   "ت",
+   "خ",
+   "ا",
+   null
+  ],
+  [
+   null,
+   null,
+   "م",
+   "س",
+   "ر",
+   "و",
+   "ق",
+   null
+  ],
+  [
+   "م",
+   "س",
+   "ت",
+   "م",
+   "ن",
+   "د",
+   "ا",
+   "ن"
+  ],
+  [
+   "ز",
+   "ا",
+   "ی",
+   "ا",
+   null,
+   "ف",
+   "ق",
+   "ط"
+  ],
+  [
+   "گ",
+   "د",
+   "ا",
+   null,
+   "س",
+   "ر",
+   "ی",
+   "ن"
+  ],
+  [
+   "ت",
+   "ی",
+   "ز",
+   "پ",
+   "ر",
+   "و",
+   "ا",
+   "ز"
+  ],
+  [
+   null,
+   "س",
+   "ه",
+   "ن",
+   "ب",
+   "ش",
+   null,
+   null
+  ],
+  [
+   null,
+   "ت",
+   "ا",
+   "ج",
+   "ر",
+   "ی",
+   null,
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true
+  ]
+ ],
+ "level_counts": {
+  "high_medium": 3,
+  "medium": 15,
+  "low_medium": 2
+ },
+ "nodes_explored": 2358,
+ "solve_time_s": 3.7780539989471436,
+ "seed": 80410
+}

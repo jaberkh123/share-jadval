@@ -1,0 +1,443 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "length": 3,
+   "word_idx": 24857,
+   "word": "قصه",
+   "clue": "روایت داستانی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 4,
+   "word_idx": 32845,
+   "word": "هامه",
+   "clue": "نامی قدیمی برای حشره",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 5,
+   "length": 3,
+   "word_idx": 20760,
+   "word": "شهر",
+   "clue": "مرکز پرجمعیت و دارای تشکیلات اداری",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 4,
+   "word_idx": 16377,
+   "word": "رفرم",
+   "clue": "اصلاحات سیاسی یا اجتماعی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 5,
+   "length": 3,
+   "word_idx": 16469,
+   "word": "رمک",
+   "clue": "نفس کوتاه و بریده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 1,
+   "length": 7,
+   "word_idx": 40066,
+   "word": "یاتاقان",
+   "clue": "قطعه‌ای در ماشین‌آلات برای کاهش اصطکاک محور",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 7,
+   "word_idx": 23718,
+   "word": "فرسایشی",
+   "clue": "مربوط به خوردگی و سایش تدریجی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 3,
+   "word_idx": 12388,
+   "word": "حوت",
+   "clue": "ماهی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "جانوران"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 4,
+   "length": 4,
+   "word_idx": 15105,
+   "word": "دنور",
+   "clue": "مرکز ایالت کلرادو در آمریکا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 3,
+   "word_idx": 21341,
+   "word": "صدا",
+   "clue": "ارتعاش شنیداری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "دانستنی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 4,
+   "length": 4,
+   "word_idx": 32860,
+   "word": "هانی",
+   "clue": "نامی عربی به معنای دوست‌داشتنی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فرهنگ"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 5,
+   "length": 3,
+   "word_idx": 19909,
+   "word": "سیف",
+   "clue": "واژه‌ای نزدیک به معنای «شمشیر»",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "length": 3,
+   "word_idx": 25048,
+   "word": "قهر",
+   "clue": "دوری از سر خشم",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 0,
+   "length": 3,
+   "word_idx": 23520,
+   "word": "فحص",
+   "clue": "جستجو و بازرسی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 7,
+   "word_idx": 21270,
+   "word": "صافیرود",
+   "clue": "رودی در استان گیلان که به سفیدرود می‌پیوندد",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 7,
+   "word_idx": 33303,
+   "word": "همراستا",
+   "clue": "در یک مسیر و جهت قرار گرفته",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "length": 4,
+   "word_idx": 33251,
+   "word": "همتا",
+   "clue": "مانند و برابر",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 4,
+   "length": 4,
+   "word_idx": 4600,
+   "word": "ایده",
+   "clue": "فکر یا طرح اولیه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "length": 7,
+   "word_idx": 20450,
+   "word": "شرقشناس",
+   "clue": "محقق فرهنگ و تاریخ ملل آسیایی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "length": 7,
+   "word_idx": 33239,
+   "word": "همایونی",
+   "clue": "منسوب به شاه و سلطنتی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "length": 3,
+   "word_idx": 16883,
+   "word": "رکن",
+   "clue": "اجزای تشکیل‌دهنده وزن شعر",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "هنر"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 7,
+   "length": 3,
+   "word_idx": 16988,
+   "word": "ریف",
+   "clue": "تپه دریایی یا صخره ساحلی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   "ق",
+   "ص",
+   "ه",
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  [
+   "ه",
+   "ا",
+   "م",
+   "ه",
+   null,
+   "ش",
+   "ه",
+   "ر"
+  ],
+  [
+   "ر",
+   "ف",
+   "ر",
+   "م",
+   null,
+   "ر",
+   "م",
+   "ک"
+  ],
+  [
+   null,
+   "ی",
+   "ا",
+   "ت",
+   "ا",
+   "ق",
+   "ا",
+   "ن"
+  ],
+  [
+   "ف",
+   "ر",
+   "س",
+   "ا",
+   "ی",
+   "ش",
+   "ی",
+   null
+  ],
+  [
+   "ح",
+   "و",
+   "ت",
+   null,
+   "د",
+   "ن",
+   "و",
+   "ر"
+  ],
+  [
+   "ص",
+   "د",
+   "ا",
+   null,
+   "ه",
+   "ا",
+   "ن",
+   "ی"
+  ],
+  [
+   null,
+   null,
+   null,
+   null,
+   null,
+   "س",
+   "ی",
+   "ف"
+  ]
+ ],
+ "grid_black": [
+  [
+   false,
+   false,
+   false,
+   true,
+   true,
+   true,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   true,
+   true,
+   true,
+   false,
+   false,
+   false
+  ]
+ ],
+ "level_counts": {
+  "high_medium": 4,
+  "medium": 14,
+  "easy": 2,
+  "hard": 1,
+  "low_medium": 1
+ },
+ "nodes_explored": 32,
+ "solve_time_s": 0.059578895568847656,
+ "seed": 80837
+}

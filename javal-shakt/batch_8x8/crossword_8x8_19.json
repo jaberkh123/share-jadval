@@ -1,0 +1,419 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 2,
+   "length": 5,
+   "word_idx": 6764,
+   "word": "بلندا",
+   "clue": "اوج و ارتفاع",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 1,
+   "length": 6,
+   "word_idx": 7463,
+   "word": "بیابان",
+   "clue": "منطقه‌ای خشک و کم‌باران",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 1,
+   "length": 7,
+   "word_idx": 40169,
+   "word": "یایونده",
+   "clue": "مرکز کشور کامرون",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 24031,
+   "word": "فضل",
+   "clue": "دانش و کمال",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "length": 4,
+   "word_idx": 15145,
+   "word": "دهری",
+   "clue": "منسوب به دهر و مادی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 4,
+   "word_idx": 16928,
+   "word": "ریتم",
+   "clue": "تکرار منظم ضربه‌ها در موسیقی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "هنر"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 15361,
+   "word": "دول",
+   "clue": "یک کلمه فارسی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 7,
+   "word_idx": 28368,
+   "word": "مشهوران",
+   "clue": "نامداران و سرشناسان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "length": 6,
+   "word_idx": 37433,
+   "word": "کالونی",
+   "clue": "مستعمره",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 1,
+   "length": 5,
+   "word_idx": 25383,
+   "word": "لباده",
+   "clue": "نوعی جامه بلند و گشاد",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 23770,
+   "word": "فرم",
+   "clue": "قالب و هیئت",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "length": 7,
+   "word_idx": 8005,
+   "word": "بیضیشکل",
+   "clue": "مانند تخم‌مرغ",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 8,
+   "word_idx": 7529,
+   "word": "بیالتهاب",
+   "clue": "آرام و بدون تورم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 25358,
+   "word": "لای",
+   "clue": "رسوب ته‌نشین شده در آب",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "length": 4,
+   "word_idx": 30147,
+   "word": "مولا",
+   "clue": "در جدول، برابر معنایی «آقا»",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 4,
+   "word_idx": 31383,
+   "word": "نبود",
+   "clue": "نیستی و فقدان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 16668,
+   "word": "رود",
+   "clue": "جریان آب در بستر طبیعی",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 8,
+   "word_idx": 14282,
+   "word": "دانهدانه",
+   "clue": "قطره‌قطره یا جدا از هم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "طبیعت"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 7,
+   "word_idx": 3935,
+   "word": "اندرونی",
+   "clue": "بخش خصوصی خانه در قدیم",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 2,
+   "col": 7,
+   "length": 3,
+   "word_idx": 33791,
+   "word": "هیل",
+   "clue": "تپه یا بلندی کوچک",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   null,
+   "ب",
+   "ل",
+   "ن",
+   "د",
+   "ا",
+   null
+  ],
+  [
+   null,
+   "ب",
+   "ی",
+   "ا",
+   "ب",
+   "ا",
+   "ن",
+   null
+  ],
+  [
+   null,
+   "ی",
+   "ا",
+   "ی",
+   "و",
+   "ن",
+   "د",
+   "ه"
+  ],
+  [
+   "ف",
+   "ض",
+   "ل",
+   null,
+   "د",
+   "ه",
+   "ر",
+   "ی"
+  ],
+  [
+   "ر",
+   "ی",
+   "ت",
+   "م",
+   null,
+   "د",
+   "و",
+   "ل"
+  ],
+  [
+   "م",
+   "ش",
+   "ه",
+   "و",
+   "ر",
+   "ا",
+   "ن",
+   null
+  ],
+  [
+   null,
+   "ک",
+   "ا",
+   "ل",
+   "و",
+   "ن",
+   "ی",
+   null
+  ],
+  [
+   null,
+   "ل",
+   "ب",
+   "ا",
+   "د",
+   "ه",
+   null,
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true
+  ]
+ ],
+ "level_counts": {
+  "high_medium": 1,
+  "hard": 1,
+  "medium": 13,
+  "low_medium": 3,
+  "easy": 2
+ },
+ "nodes_explored": 860,
+ "solve_time_s": 3.3050665855407715,
+ "seed": 80682
+}

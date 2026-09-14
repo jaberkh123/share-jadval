@@ -1,0 +1,442 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 5,
+   "length": 3,
+   "word_idx": 24113,
+   "word": "فلز",
+   "clue": "عنصر شیمیایی رسانا و چکش‌خوار",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "علمی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 8,
+   "word_idx": 31671,
+   "word": "نشانهروی",
+   "clue": "هدف‌گیری",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 7390,
+   "word": "بویراحمد",
+   "clue": "نام یک شهر، ناحیه یا جای جغرافیایی",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 5,
+   "word_idx": 4504,
+   "word": "اکسید",
+   "clue": "ترکیب شیمیایی حاصل از واکنش یک عنصر با اکسیژن",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "علمی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 3,
+   "length": 5,
+   "word_idx": 27701,
+   "word": "مرسین",
+   "clue": "شهری بندری در جنوب ترکیه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 26500,
+   "word": "متجاوزان",
+   "clue": "کسانی که به حقوق دیگران دست‌درازی کنند",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 8,
+   "word_idx": 7547,
+   "word": "بیاننامه",
+   "clue": "سندی برای بیان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "length": 3,
+   "word_idx": 25753,
+   "word": "لپه",
+   "clue": "نوعی حبوبات دو نیم شده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 0,
+   "length": 3,
+   "word_idx": 31362,
+   "word": "نبا",
+   "clue": "خبر و آگاهی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "length": 3,
+   "word_idx": 26437,
+   "word": "مبل",
+   "clue": "اثاثیه نشستن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "length": 3,
+   "word_idx": 20942,
+   "word": "شوک",
+   "clue": "تکان ناگهانی عصبی یا الکتریکی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "علمی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 1,
+   "length": 3,
+   "word_idx": 10847,
+   "word": "تیپ",
+   "clue": "واحد نظامی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "length": 3,
+   "word_idx": 4668,
+   "word": "ایس",
+   "clue": "سرویس بی‌بازگشت در تنیس",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 2,
+   "length": 3,
+   "word_idx": 11067,
+   "word": "جاه",
+   "clue": "مقام و مرتبه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 3,
+   "length": 6,
+   "word_idx": 31576,
+   "word": "نریمان",
+   "clue": "از پهلوانان شاهنامه و پدر سام",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فرهنگ"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 4,
+   "length": 6,
+   "word_idx": 32790,
+   "word": "هادرون",
+   "clue": "ذره‌ای زیراتمی که تحت تأثیر نیروی هسته‌ای قوی است",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 3,
+   "word_idx": 23660,
+   "word": "فرح",
+   "clue": "شادمانی و سرور",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 18779,
+   "word": "سزا",
+   "clue": "پاداش و کیفر",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 3,
+   "word_idx": 25708,
+   "word": "لوم",
+   "clue": "نکوهش و ملامت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 6,
+   "length": 3,
+   "word_idx": 40147,
+   "word": "یام",
+   "clue": "پیک و چاپار قدیم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "length": 3,
+   "word_idx": 17591,
+   "word": "زید",
+   "clue": "از صحابه پیامبر اسلام که نامش در قرآن آمده است",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "فرهنگ"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "length": 3,
+   "word_idx": 32118,
+   "word": "ننه",
+   "clue": "مادر مهربان",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   null,
+   null,
+   null,
+   null,
+   "ف",
+   "ل",
+   "ز"
+  ],
+  [
+   "ن",
+   "ش",
+   "ا",
+   "ن",
+   "ه",
+   "ر",
+   "و",
+   "ی"
+  ],
+  [
+   "ب",
+   "و",
+   "ی",
+   "ر",
+   "ا",
+   "ح",
+   "م",
+   "د"
+  ],
+  [
+   "ا",
+   "ک",
+   "س",
+   "ی",
+   "د",
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null,
+   "م",
+   "ر",
+   "س",
+   "ی",
+   "ن"
+  ],
+  [
+   "م",
+   "ت",
+   "ج",
+   "ا",
+   "و",
+   "ز",
+   "ا",
+   "ن"
+  ],
+  [
+   "ب",
+   "ی",
+   "ا",
+   "ن",
+   "ن",
+   "ا",
+   "م",
+   "ه"
+  ],
+  [
+   "ل",
+   "پ",
+   "ه",
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   true,
+   true,
+   true,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   true,
+   true,
+   true,
+   true
+  ]
+ ],
+ "level_counts": {
+  "low_medium": 3,
+  "medium": 14,
+  "high_medium": 4,
+  "hard": 1
+ },
+ "nodes_explored": 37,
+ "solve_time_s": 0.08057737350463867,
+ "seed": 80744
+}

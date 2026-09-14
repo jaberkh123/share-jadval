@@ -1,0 +1,442 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 4,
+   "length": 4,
+   "word_idx": 31852,
+   "word": "نفار",
+   "clue": "بیگانگی و دوری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 3,
+   "word_idx": 28405,
+   "word": "مشی",
+   "clue": "مدیریت و تدبیر",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 4,
+   "length": 4,
+   "word_idx": 3448,
+   "word": "الله",
+   "clue": "پروردگار یکتا",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "دینی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 3,
+   "word_idx": 25614,
+   "word": "لهو",
+   "clue": "سرگرمی و خوش‌گذرانی",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 4,
+   "length": 4,
+   "word_idx": 40310,
+   "word": "یوما",
+   "clue": "شهری در ایالت آریزونای آمریکا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 7,
+   "word_idx": 18571,
+   "word": "سرشماری",
+   "clue": "آمارگیری از جمعیت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 1,
+   "length": 7,
+   "word_idx": 7406,
+   "word": "بچهبازی",
+   "clue": "رفتار کودکانه و سبک",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 4,
+   "word_idx": 37488,
+   "word": "کانا",
+   "clue": "نادان و بی‌خرد",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 5,
+   "length": 3,
+   "word_idx": 31033,
+   "word": "نال",
+   "clue": "نی و فلوت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 4,
+   "word_idx": 29716,
+   "word": "منکب",
+   "clue": "شانه و کتف",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 5,
+   "length": 3,
+   "word_idx": 19267,
+   "word": "سنی",
+   "clue": "مربوط به سن و سال",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 0,
+   "length": 4,
+   "word_idx": 36284,
+   "word": "پیوت",
+   "clue": "حرکت چرخشی در بسکتبال",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 0,
+   "length": 3,
+   "word_idx": 29306,
+   "word": "ملس",
+   "clue": "میخوش و شادمان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 0,
+   "length": 3,
+   "word_idx": 38399,
+   "word": "کمپ",
+   "clue": "اردوگاه موقت",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "length": 7,
+   "word_idx": 20771,
+   "word": "شهربانی",
+   "clue": "اداره پلیس در گذشته",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "length": 7,
+   "word_idx": 40302,
+   "word": "یوشچنکو",
+   "clue": "رئیس‌جمهور پیشین اوکراین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 3,
+   "length": 5,
+   "word_idx": 29748,
+   "word": "مهابت",
+   "clue": "هیبت و شکوه توأم با ترس",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 5,
+   "word_idx": 31345,
+   "word": "نایاب",
+   "clue": "کمیاب و دیریاب",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 7,
+   "word_idx": 24138,
+   "word": "فلورانس",
+   "clue": "مرکز رنسانس در ایتالیا",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "دانستنی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 6,
+   "length": 7,
+   "word_idx": 3483,
+   "word": "المیزان",
+   "clue": "ترازو و نام تفسیری از علامه طباطبایی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 7,
+   "length": 3,
+   "word_idx": 16531,
+   "word": "رها",
+   "clue": "آزاد و وارسته",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 7,
+   "length": 3,
+   "word_idx": 40245,
+   "word": "یلی",
+   "clue": "پهلوان‌منشی و دلیری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   null,
+   null,
+   null,
+   "ن",
+   "ف",
+   "ا",
+   "ر"
+  ],
+  [
+   "م",
+   "ش",
+   "ی",
+   null,
+   "ا",
+   "ل",
+   "ل",
+   "ه"
+  ],
+  [
+   "ل",
+   "ه",
+   "و",
+   null,
+   "ی",
+   "و",
+   "م",
+   "ا"
+  ],
+  [
+   "س",
+   "ر",
+   "ش",
+   "م",
+   "ا",
+   "ر",
+   "ی",
+   null
+  ],
+  [
+   null,
+   "ب",
+   "چ",
+   "ه",
+   "ب",
+   "ا",
+   "ز",
+   "ی"
+  ],
+  [
+   "ک",
+   "ا",
+   "ن",
+   "ا",
+   null,
+   "ن",
+   "ا",
+   "ل"
+  ],
+  [
+   "م",
+   "ن",
+   "ک",
+   "ب",
+   null,
+   "س",
+   "ن",
+   "ی"
+  ],
+  [
+   "پ",
+   "ی",
+   "و",
+   "ت",
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 17,
+  "high_medium": 3,
+  "low_medium": 1,
+  "easy": 1
+ },
+ "nodes_explored": 36,
+ "solve_time_s": 0.06727290153503418,
+ "seed": 80279
+}

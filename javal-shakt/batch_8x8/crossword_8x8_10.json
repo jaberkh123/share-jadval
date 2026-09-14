@@ -1,0 +1,419 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 9276,
+   "word": "ترم",
+   "clue": "دوره تحصیلی یا فصل کاری",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 8,
+   "word_idx": 7898,
+   "word": "بیستویکم",
+   "clue": "ترتیب عددی پس از بیستم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 8,
+   "word_idx": 14140,
+   "word": "دارمشتات",
+   "clue": "شهری در آلمان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 4,
+   "word_idx": 12225,
+   "word": "حقنه",
+   "clue": "تنقیه و شستشوی روده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 5,
+   "length": 3,
+   "word_idx": 16558,
+   "word": "رهن",
+   "clue": "وثیقه و تضمین",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 3,
+   "word_idx": 19588,
+   "word": "سوگ",
+   "clue": "غم و اندوه شدید",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 4,
+   "length": 4,
+   "word_idx": 26323,
+   "word": "مایا",
+   "clue": "تمدنی باستانی در آمریکای مرکزی",
+   "level": "hard",
+   "level_display": "سخت",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 0,
+   "length": 8,
+   "word_idx": 1598,
+   "word": "اتوکشیده",
+   "clue": "مرتب و آراسته با لباس صاف",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 0,
+   "length": 8,
+   "word_idx": 8214,
+   "word": "بینابینی",
+   "clue": "میانه و حد وسط",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 2,
+   "length": 3,
+   "word_idx": 40190,
+   "word": "یخه",
+   "clue": "گریبان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 0,
+   "length": 6,
+   "word_idx": 5756,
+   "word": "بدحساب",
+   "clue": "کسی که در پرداخت بدهی تعلل می‌کند",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 1,
+   "length": 6,
+   "word_idx": 40140,
+   "word": "یاقوتی",
+   "clue": "منسوب به سنگ سرخ قیمتی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 2,
+   "length": 7,
+   "word_idx": 18650,
+   "word": "سرنگونی",
+   "clue": "سقوط و واژگونی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 4,
+   "word_idx": 8849,
+   "word": "تتمه",
+   "clue": "واژه‌ای نزدیک به معنای «باقی»",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 3,
+   "length": 3,
+   "word_idx": 37159,
+   "word": "کاخ",
+   "clue": "بنای مجلل محل اقامت پادشاهان",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 3,
+   "word_idx": 16748,
+   "word": "روش",
+   "clue": "شیوه و طریقه انجام کار",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 4,
+   "length": 4,
+   "word_idx": 28260,
+   "word": "مشبه",
+   "clue": "مانند چیزی دیگر",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 5,
+   "length": 7,
+   "word_idx": 30418,
+   "word": "میترایی",
+   "clue": "منسوب به آیین مهر",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "length": 6,
+   "word_idx": 37540,
+   "word": "کاهیدن",
+   "clue": "کم کردن و کاستن",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "افعال"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 7,
+   "length": 6,
+   "word_idx": 26745,
+   "word": "متناهی",
+   "clue": "دارای پایان و کران‌مند",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   null,
+   null,
+   null,
+   "ت",
+   "ر",
+   "م",
+   null,
+   null
+  ],
+  [
+   "ب",
+   "ی",
+   "س",
+   "ت",
+   "و",
+   "ی",
+   "ک",
+   "م"
+  ],
+  [
+   "د",
+   "ا",
+   "ر",
+   "م",
+   "ش",
+   "ت",
+   "ا",
+   "ت"
+  ],
+  [
+   "ح",
+   "ق",
+   "ن",
+   "ه",
+   null,
+   "ر",
+   "ه",
+   "ن"
+  ],
+  [
+   "س",
+   "و",
+   "گ",
+   null,
+   "م",
+   "ا",
+   "ی",
+   "ا"
+  ],
+  [
+   "ا",
+   "ت",
+   "و",
+   "ک",
+   "ش",
+   "ی",
+   "د",
+   "ه"
+  ],
+  [
+   "ب",
+   "ی",
+   "ن",
+   "ا",
+   "ب",
+   "ی",
+   "ن",
+   "ی"
+  ],
+  [
+   null,
+   null,
+   "ی",
+   "خ",
+   "ه",
+   null,
+   null,
+   null
+  ]
+ ],
+ "grid_black": [
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ]
+ ],
+ "level_counts": {
+  "medium": 15,
+  "low_medium": 2,
+  "hard": 1,
+  "high_medium": 1,
+  "easy": 1
+ },
+ "nodes_explored": 2180,
+ "solve_time_s": 6.179744482040405,
+ "seed": 80348
+}

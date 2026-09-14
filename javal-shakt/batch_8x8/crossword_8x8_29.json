@@ -1,0 +1,418 @@
+{
+ "slots": [
+  {
+   "dir": "across",
+   "row": 0,
+   "col": 0,
+   "length": 5,
+   "word_idx": 29022,
+   "word": "مفسده",
+   "clue": "فسادانگیز و تباه‌کننده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 1,
+   "col": 0,
+   "length": 7,
+   "word_idx": 18697,
+   "word": "سروهمسر",
+   "clue": "اهل و عیال",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 2,
+   "col": 0,
+   "length": 7,
+   "word_idx": 4364,
+   "word": "اومناره",
+   "clue": "نام شهر یا روستایی در ایران",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 0,
+   "length": 3,
+   "word_idx": 23558,
+   "word": "فرا",
+   "clue": "پیشوند به معنای برتر و بالاتر",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 3,
+   "col": 4,
+   "length": 4,
+   "word_idx": 26176,
+   "word": "مانا",
+   "clue": "پایدار و جاویدان",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 0,
+   "length": 4,
+   "word_idx": 16928,
+   "word": "ریتم",
+   "clue": "تکرار منظم ضربه‌ها در موسیقی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "هنر"
+  },
+  {
+   "dir": "across",
+   "row": 4,
+   "col": 5,
+   "length": 3,
+   "word_idx": 40248,
+   "word": "یمن",
+   "clue": "کشوری در جنوب شبه‌جزیره عربستان",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "across",
+   "row": 5,
+   "col": 1,
+   "length": 7,
+   "word_idx": 17203,
+   "word": "زراندود",
+   "clue": "پوشانده شده با لایه نازک طلا",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 6,
+   "col": 1,
+   "length": 7,
+   "word_idx": 40082,
+   "word": "یادمانی",
+   "clue": "منسوب به بنا یا اثری که برای زنده نگه داشتن خاطره‌ای ساخته شده",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "across",
+   "row": 7,
+   "col": 3,
+   "length": 5,
+   "word_idx": 40375,
+   "word": "یکریز",
+   "clue": "پیاپی و بی‌وقفه",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 0,
+   "length": 5,
+   "word_idx": 27938,
+   "word": "مسافر",
+   "clue": "رهسپار و راهی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 1,
+   "length": 7,
+   "word_idx": 23869,
+   "word": "فروریزی",
+   "clue": "سقوط و انهدام",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "مفاهیم"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 2,
+   "length": 7,
+   "word_idx": 19540,
+   "word": "سوماترا",
+   "clue": "جزیره‌ای بزرگ در اندونزی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 3,
+   "length": 3,
+   "word_idx": 15171,
+   "word": "دهن",
+   "clue": "عضو گوارشی و تکلم",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 4,
+   "col": 3,
+   "length": 4,
+   "word_idx": 25971,
+   "word": "مادی",
+   "clue": "مربوط به قوم ماد",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "تاریخی"
+  },
+  {
+   "dir": "down",
+   "row": 0,
+   "col": 4,
+   "length": 4,
+   "word_idx": 33216,
+   "word": "همام",
+   "clue": "واژه‌ای نزدیک به معنی «سخن‌چین»",
+   "level": "low_medium",
+   "level_display": "پایین متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 5,
+   "col": 4,
+   "length": 3,
+   "word_idx": 32094,
+   "word": "نمک",
+   "clue": "ماده سفید برای طعم دادن به غذا",
+   "level": "easy",
+   "level_display": "آسان",
+   "category": "خوراکی"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 5,
+   "length": 7,
+   "word_idx": 18395,
+   "word": "سرایدار",
+   "clue": "نگهبان و محافظ ساختمان",
+   "level": "high_medium",
+   "level_display": "بالا متوسط",
+   "category": "ادبیات"
+  },
+  {
+   "dir": "down",
+   "row": 1,
+   "col": 6,
+   "length": 7,
+   "word_idx": 16563,
+   "word": "رهنمونی",
+   "clue": "هدایت و راهنمایی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "عمومی"
+  },
+  {
+   "dir": "down",
+   "row": 3,
+   "col": 7,
+   "length": 5,
+   "word_idx": 3973,
+   "word": "اندیز",
+   "clue": "رشته‌کوهی در آمریکای جنوبی",
+   "level": "medium",
+   "level_display": "متوسط",
+   "category": "جغرافیا"
+  }
+ ],
+ "size": 8,
+ "grid_letters": [
+  [
+   "م",
+   "ف",
+   "س",
+   "د",
+   "ه",
+   null,
+   null,
+   null
+  ],
+  [
+   "س",
+   "ر",
+   "و",
+   "ه",
+   "م",
+   "س",
+   "ر",
+   null
+  ],
+  [
+   "ا",
+   "و",
+   "م",
+   "ن",
+   "ا",
+   "ر",
+   "ه",
+   null
+  ],
+  [
+   "ف",
+   "ر",
+   "ا",
+   null,
+   "م",
+   "ا",
+   "ن",
+   "ا"
+  ],
+  [
+   "ر",
+   "ی",
+   "ت",
+   "م",
+   null,
+   "ی",
+   "م",
+   "ن"
+  ],
+  [
+   null,
+   "ز",
+   "ر",
+   "ا",
+   "ن",
+   "د",
+   "و",
+   "د"
+  ],
+  [
+   null,
+   "ی",
+   "ا",
+   "د",
+   "م",
+   "ا",
+   "ن",
+   "ی"
+  ],
+  [
+   null,
+   null,
+   null,
+   "ی",
+   "ک",
+   "ر",
+   "ی",
+   "ز"
+  ]
+ ],
+ "grid_black": [
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ ],
+ "level_counts": {
+  "low_medium": 2,
+  "medium": 14,
+  "high_medium": 2,
+  "easy": 2
+ },
+ "nodes_explored": 985,
+ "solve_time_s": 4.816707611083984,
+ "seed": 81178
+}
