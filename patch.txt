@@ -1,0 +1,141 @@
+                                            isWrong = isWrong,
+                                            isMinimapMode = isMinimapMode,
+                                            isPartOfCorrectCompletedClue = isPartOfCorrectCompletedClue,
+                                            sharedInteractionSource = sharedInteractionSource,
+                                            onClick = {
+                                                onCellClicked(row, col)
+                                                lastClickTime = System.currentTimeMillis()
+                                            }
+                                        )
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    // Active cell click highlight flash overlay moved outside the loops to avoid high-frequency recomposition of the full grid
+                    if (activeRow != -1 && activeCol != -1 && !isMinimapMode && clickHighlightAlpha.value > 0.01f) {
+                        val flashX = cellSize * activeCol
+                        val flashY = cellSize * activeRow
+                        Box(
+                            modifier = Modifier
+                                .offset(x = flashX, y = flashY)
+                                .size(cellSize)
+                                .background(
+                                    brush = androidx.compose.ui.graphics.Brush.radialGradient(
+                                        colors = listOf(
+                                            Color(0xFF0096C7).copy(alpha = clickHighlightAlpha.value),
+                                            Color(0xFF0096C7).copy(alpha = clickHighlightAlpha.value * 0.4f),
+                                            Color.Transparent
+                                        )
+                                    )
+                                )
+                        )
+                    }
+
+                    val showDirectionPicker = (showDirectionPickerState || directionPickerAlpha.value > 0.05f) && activeRow != -1 && activeCol != -1
+                    if (showDirectionPicker) {
+                        val r = activeRow
+                        val c = activeCol
+                        // Design a glassy, larger direction picker
+                                                             // Design a glassy, larger direction picker
+                        val pickerWidth = 120.dp
+                        val pickerHeight = 40.dp
+
+                        val padding = 4.dp
+                        val isAcross = viewModel.activeDirection == "across"
+                        
+                        var rawX: Dp
+                        var rawY: Dp
+
+                        if (isAcross) {
+                            // Active line is horizontal. Place picker above or below the cell.
+                            val cellCenter = (cellSize * c) + (cellSize / 2f)
+                            rawX = cellCenter - (pickerWidth / 2f)
+
+                            rawY = if (isMinimapMode) {
+                                if (r >= rows / 2) {
+                                    (cellSize * r) - pickerHeight - 8.dp
+                                } else {
+                                    (cellSize * (r + 1)) + 8.dp
+                                }
+                            } else {
+                                if (r >= 2) {
+                                    (cellSize * r) - pickerHeight - 8.dp
+                                } else {
+                                    (cellSize * (r + 1)) + 8.dp
+                                }
+                            }
+                        } else {
+                            // Active line is vertical. Place picker to the left or right of the cell.
+                            val cellCenter = (cellSize * r) + (cellSize / 2f)
+                            rawY = cellCenter - (pickerHeight / 2f)
+
+                            rawX = if (isMinimapMode) {
+                                if (c >= cols / 2) {
+                                    (cellSize * c) - pickerWidth - 8.dp
+                                } else {
+                                    (cellSize * (c + 1)) + 8.dp
+                                }
+                            } else {
+                                if (c >= 2) {
+                                    (cellSize * c) - pickerWidth - 8.dp
+                                } else {
+                                    (cellSize * (c + 1)) + 8.dp
+                                }
+                            }
+                        }
+
+                        val clampedXOffset = rawX.coerceIn(padding, gridWidth - pickerWidth - padding)
+                        val clampedYOffset = rawY.coerceIn(padding, gridHeight - pickerHeight - padding)
+
+                        Box(
+                            modifier = Modifier
+                                .offset(x = clampedXOffset, y = clampedYOffset) -1 && activeCol != -1
+                    if (showDirectionPicker) {
+                        val r = activeRow
+                        val c = activeCol
+
+                        // Design a glassy, larger direction picker
+                        val pickerWidth = 120.dp
+                        val pickerHeight = 40.dp
+
+                        // Horizontal position: center picker relative to cell, but clamp so it stays fully inside screen bounds
+                        val cellCenter = (cellSize * c) + (cellSize / 2f)
+                        val rawX = cellCenter - (pickerWidth / 2f)
+                        val padding = 4.dp
+                        val xOffset = rawX.coerceIn(padding, gridWidth - pickerWidth - padding)
+
+                        // Vertical position:
+                        val yOffset = if (isMinimapMode) {
+                            // Minimap mode: place above cell if row is bottom half, below if top half
+                            if (r >= rows / 2) {
+                                (cellSize * r) - pickerHeight - 8.dp
+                            } else {
+                                (cellSize * (r + 1)) + 8.dp
+                            }
+                        } else {
+                            // Zoom mode: place above if row >= 2, below if row < 2
+                            if (r >= 2) {
+                                (cellSize * r) - pickerHeight - 8.dp
+                            } else {
+                                (cellSize * (r + 1)) + 8.dp
+                            }
+                        }
+                        val clampedYOffset = yOffset.coerceIn(4.dp, gridHeight - pickerHeight - 4.dp)
+
+                        Box(
+                            modifier = Modifier
+                                .offset(x = xOffset, y = clampedYOffset)
+                                .graphicsLayer(alpha = directionPickerAlpha.value)
+                                .shadow(
+                                    elevation = 10.dp,
+                                    shape = RoundedCornerShape(24.dp),
+                                    clip = false
+                                )
+                                .background(
+                                    color = if (LocalDarkTheme.current) DarkSurface.copy(alpha=0.95f) else Color(0xF2ADE8F4), // Glassy Slate look
+                                    shape = RoundedCornerShape(24.dp)
+                                )
+                                .border(
+                                    width = 1.2.dp,
